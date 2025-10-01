@@ -82,7 +82,7 @@ def buscar_y_mover_archivos(df_curps: pd.DataFrame, ruta_origen: Path, ruta_dest
 
 # --- INTERFAZ DE STREAMLIT ---
 
-st.title("☁️ Organizador de Documentos por CURP (Cloud) By Emiliado D")
+st.title("☁️ Organizador de Documentos por CURP - By Emiliano D")
 st.markdown("Sube tu lista de **CURP (XLS/XLSX)** y un **ZIP** o **RAR** con los documentos de tus alumnos.")
 
 # --- ENTRADAS DEL USUARIO ---
